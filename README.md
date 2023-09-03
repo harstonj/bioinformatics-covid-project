@@ -1,1 +1,3 @@
-# bioinformatics-covid-project
+# Sequencing Sars-CoV-2 Variants of Concern to Find the Rate of Substitution | Bioinformatics
+
+COVID-19 caused a global public health crisis and evolved quickly which prompted the research of mutation rates in genomic sequence data of the different variants. Knowledge of the rate of mutation is important for tracking the spread of the virus, studying its phylogeny, and vaccine design and production. To understand the virus better, we selected one accession of the variant, parsed the FASTA files of their nucleotide sequences including the and the original virus of SARS-CoV-2, and aligned them using Multiple Sequence Comparison by Log-Expectation (MUSCLE) to obtain the rate of substitution and concluded that the rate of substitution differs between each virus variant.
